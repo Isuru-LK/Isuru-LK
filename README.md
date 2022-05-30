@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Isuru-LK
+- 👋 Hi, I’m Isuru Lakshan 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Information and Communication Engineering
 
